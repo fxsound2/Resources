@@ -135,3 +135,5 @@ countries: tr
 "Theme" = "Tema"
 "Dark" = "Koyu"
 "Light" = "Açık"
+"Output Device Preference" = "Çıkış aygıtı tercihi"
+"Select preset" = "Ön ayar seç"

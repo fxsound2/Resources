@@ -135,3 +135,5 @@ countries: ro
 "Theme" = "Temă"
 "Dark" = "Întunecat"
 "Light" = "Luminos"
+"Output Device Preference" = "Preferință dispozitiv de ieșire"
+"Select preset" = "Selectează presetare"

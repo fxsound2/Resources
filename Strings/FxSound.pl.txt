@@ -135,3 +135,5 @@ countries: pl
 "Theme" = "Motyw"
 "Dark" = "Ciemny"
 "Light" = "Jasny"
+"Output Device Preference" = "Preferencje urządzenia wyjściowego"
+"Select preset" = "Wybierz preset"

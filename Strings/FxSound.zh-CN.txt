@@ -133,3 +133,5 @@ countries: cn sg
 "Theme" = "主题"
 "Dark" = "深色"
 "Light" = "浅色"
+"Output Device Preference" = "输出设备设置"
+"Select preset" = "选择预设"

@@ -134,3 +134,5 @@ countries: ar co es mx
 "Theme" = "Tema"
 "Dark" = "Oscuro"
 "Light" = "Claro"
+"Output Device Preference" = "Preferencia de dispositivo de salida"
+"Select preset" = "Seleccionar preajuste"

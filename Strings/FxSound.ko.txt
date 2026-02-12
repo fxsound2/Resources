@@ -134,3 +134,5 @@ countries: kr
 "Theme" = "테마"
 "Dark" = "어두운"
 "Light" = "밝은"
+"Output Device Preference" = "출력 장치 설정"
+"Select preset" = "프리셋 선택"

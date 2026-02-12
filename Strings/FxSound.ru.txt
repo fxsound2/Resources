@@ -134,3 +134,5 @@ countries: ru
 "Theme" = "Тема"
 "Dark" = "Тёмная"
 "Light" = "Светлая"
+"Output Device Preference" = "Предпочтение устройства вывода"
+"Select preset" = "Выбрать пресет"

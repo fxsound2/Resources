@@ -134,3 +134,5 @@ countries: no
 "Theme" = "Tema"
 "Dark" = "Mørkt"
 "Light" = "Lyst"
+"Output Device Preference" = "Innstilling for utdataenhet"
+"Select preset" = "Velg forhåndsinnstilling"

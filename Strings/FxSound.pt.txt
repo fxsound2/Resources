@@ -134,3 +134,5 @@ countries: pt
 "Theme" = "Tema"
 "Dark" = "Escuro"
 "Light" = "Claro"
+"Output Device Preference" = "Preferencje urządzenia wyjściowego"
+"Select preset" = "Wybierz preset"

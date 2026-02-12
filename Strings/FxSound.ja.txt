@@ -135,3 +135,5 @@ countries: ja
 "Theme" = "テーマ"
 "Dark" = "ダーク"
 "Light" = "ライト"
+"Output Device Preference" = "出力デバイス設定"
+"Select preset" = "プリセットを選択"

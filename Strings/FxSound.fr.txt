@@ -135,3 +135,5 @@ countries: fr
 "Theme" = "Thème"
 "Dark" = "Sombre"
 "Light" = "Clair"
+"Output Device Preference" = "Préférence du périphérique de sortie"
+"Select preset" = "Sélectionner un préréglage"

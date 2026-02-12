@@ -134,3 +134,5 @@ countries: HR
 "Theme" = "Tema"
 "Dark" = "Tamna"
 "Light" = "Svijetla"
+"Output Device Preference" = "Postavke izlaznog uređaja"
+"Select preset" = "Odaberi unaprijed postavljenu postavku"

@@ -134,3 +134,5 @@ countries: [IR, FA]
 "Theme" = "تم"
 "Dark" = "تیره"
 "Light" = "روشن"
+"Output Device Preference" = "تنظیمات دستگاه خروجی"
+"Select preset" = "انتخاب تنظیم از پیش تعریف‌شده"

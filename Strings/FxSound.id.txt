@@ -135,3 +135,5 @@ countries: id
 "Theme" = "Tema"
 "Dark" = "Gelap"
 "Light" = "Terang"
+"Output Device Preference" = "Preferensi perangkat keluaran"
+"Select preset" = "Pilih preset"

@@ -136,3 +136,5 @@ countries: EG sa
 "Theme" = "السمة"
 "Dark" = "داكن"
 "Light" = "فاتح"
+"Output Device Preference" = "تفضيلات جهاز الإخراج"
+"Select preset" = "اختيار إعداد مسبق"

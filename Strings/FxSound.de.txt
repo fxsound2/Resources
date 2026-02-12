@@ -134,3 +134,5 @@ countries: de at ch
 "Theme" = "Design"
 "Dark" = "Dunkel"
 "Light" = "Hell"
+"Output Device Preference" = "Einstellung für Ausgabegerät"
+"Select preset" = "Voreinstellung auswählen"

@@ -135,3 +135,5 @@ countries: se
 "Theme" = "Tema"
 "Dark" = "Mörkt"
 "Light" = "Ljust"
+"Output Device Preference" = "Inställning för utgångsenhet"
+"Select preset" = "Välj förinställning"

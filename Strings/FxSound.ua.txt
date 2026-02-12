@@ -134,3 +134,5 @@ countries: ua
 "Theme" = "Тема"
 "Dark" = "Темна"
 "Light" = "Світла"
+"Output Device Preference" = "Налаштування пристрою виводу"
+"Select preset" = "Вибрати пресет"

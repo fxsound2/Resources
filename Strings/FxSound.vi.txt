@@ -135,3 +135,5 @@ countries: vn
 "Theme" = "Giao diện"
 "Dark" = "Tối"
 "Light" = "Sáng"
+"Output Device Preference" = "Tùy chọn thiết bị đầu ra"
+"Select preset" = "Chọn preset"

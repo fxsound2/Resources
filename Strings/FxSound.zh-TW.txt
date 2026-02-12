@@ -133,3 +133,5 @@ countries: Taiwan
 "Theme" = "主題"
 "Dark" = "深色"
 "Light" = "淺色"
+"Output Device Preference" = "輸出裝置設定"
+"Select preset" = "選擇預設"

@@ -135,3 +135,5 @@ countries: hu
 "Theme" = "Téma"
 "Dark" = "Sötét"
 "Light" = "Világos"
+"Output Device Preference" = "Kimeneti eszköz beállítása"
+"Select preset" = "Előbeállítás kiválasztása"

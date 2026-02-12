@@ -135,3 +135,5 @@ countries: th
 "Theme" = "ธีม"
 "Dark" = "มืด"
 "Light" = "สว่าง"
+"Output Device Preference" = "การตั้งค่าอุปกรณ์เอาต์พุต"
+"Select preset" = "เลือกพรีเซ็ต"
