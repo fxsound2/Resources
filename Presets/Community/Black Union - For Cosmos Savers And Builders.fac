@@ -1,13 +1,13 @@
 CLASS1 : Effect Type
 9: Version
-Bugatti - Worker (User FxSound Preset)
+Black Union - For Cosmos Savers And Builders
 0: Double Params Flag
 1: Total number of elements
-13: Main 0
-38: Main 1
+102: Main 0
+64: Main 1
 0: Main 2
-0: Main 3
-38: Main 4
+102: Main 3
+76: Main 4
 114: Main 5
 0: Element Number
    0: Param 0
@@ -34,28 +34,28 @@ Band 1
    8.97638: Boost/Cut
 Band 2
    157: CF
-   -9: Boost/Cut
+   -12: Boost/Cut
 Band 3
-   158: CF
-   9: Boost/Cut
+   292: CF
+   -6: Boost/Cut
 Band 4
-   411.56: CF
-   9: Boost/Cut
-Band 5
-   1000: CF
+   540: CF
    0: Boost/Cut
+Band 5
+   903.61: CF
+   6: Boost/Cut
 Band 6
-   1431: CF
-   6: Boost/Cut
+   1852: CF
+   3: Boost/Cut
 Band 7
-   3429: CF
-   1: Boost/Cut
+   2191.07: CF
+   -3: Boost/Cut
 Band 8
-   3439: CF
-   7: Boost/Cut
+   5796.91: CF
+   3: Boost/Cut
 Band 9
-   8951.04: CF
-   -2: Boost/Cut
+   11758: CF
+   9: Boost/Cut
 Band 10
-   16000: CF
-   6: Boost/Cut
+   11768: CF
+   -12: Boost/Cut
