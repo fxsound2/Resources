@@ -1,13 +1,13 @@
 CLASS1 : Effect Type
 9: Version
-Bugatti - Worker (User FxSound Preset)
+ZEN - ZEN (User FxSound Preset)
 0: Double Params Flag
 1: Total number of elements
-13: Main 0
-38: Main 1
+102: Main 0
+76: Main 1
 0: Main 2
-0: Main 3
-38: Main 4
+102: Main 3
+102: Main 4
 114: Main 5
 0: Element Number
    0: Param 0
@@ -34,28 +34,28 @@ Band 1
    8.97638: Boost/Cut
 Band 2
    157: CF
-   -9: Boost/Cut
+   3: Boost/Cut
 Band 3
    158: CF
-   9: Boost/Cut
+   -9: Boost/Cut
 Band 4
    411.56: CF
-   9: Boost/Cut
+   -9: Boost/Cut
 Band 5
    1000: CF
    0: Boost/Cut
 Band 6
    1431: CF
-   6: Boost/Cut
+   -6: Boost/Cut
 Band 7
    3429: CF
-   1: Boost/Cut
+   -1: Boost/Cut
 Band 8
    3439: CF
-   7: Boost/Cut
+   -7: Boost/Cut
 Band 9
    8951.04: CF
    -2: Boost/Cut
 Band 10
    16000: CF
-   6: Boost/Cut
+   -6: Boost/Cut
