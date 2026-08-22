@@ -142,3 +142,4 @@ countries: vn
 "Use Shift+Up or Shift+Down to change the device priority" = "Sử dụng Shift+Up hoặc Shift+Down để thay đổi mức ưu tiên thiết bị"
 "Audio processing is not available over Remote Desktop" = "Xử lý âm thanh không khả dụng qua Máy tính từ xa"
 "Volume Leveling" = "Cân bằng âm lượng"
+"Not configured" = "Chưa được cấu hình"

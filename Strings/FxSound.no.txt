@@ -141,3 +141,4 @@ countries: no
 "Use Shift+Up or Shift+Down to change the device priority" = "Bruk Shift+Up eller Shift+Down for å endre enhetsprioriteten"
 "Audio processing is not available over Remote Desktop" = "Lydprosessering er ikke tilgjengelig over Eksternt skrivebord"
 "Volume Leveling" = "Volumutjevning"
+"Not configured" = "Ikke konfigurert"

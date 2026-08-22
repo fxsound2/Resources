@@ -141,3 +141,4 @@ countries: [enter list of 2-character country codes here!]
 "Use Shift+Up or Shift+Down to change the device priority" = "Use Shift+Up or Shift+Down to change the device priority"
 "Audio processing is not available over Remote Desktop" = "Audio processing is not available over Remote Desktop"
 "Volume Leveling" = "Volume Leveling"
+"Not configured" = "Not configured"

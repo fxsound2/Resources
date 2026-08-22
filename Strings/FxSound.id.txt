@@ -142,3 +142,4 @@ countries: id
 "Use Shift+Up or Shift+Down to change the device priority" = "Gunakan Shift+Up atau Shift+Down untuk mengubah prioritas perangkat"
 "Audio processing is not available over Remote Desktop" = "Pemrosesan audio tidak tersedia melalui Desktop Jauh"
 "Volume Leveling" = "Perataan Volume"
+"Not configured" = "Belum dikonfigurasi"

@@ -142,3 +142,4 @@ countries: th
 "Use Shift+Up or Shift+Down to change the device priority" = "ใช้ Shift+Up หรือ Shift+Down เพื่อเปลี่ยนลำดับความสำคัญของอุปกรณ์"
 "Audio processing is not available over Remote Desktop" = "การประมวลผลเสียงไม่สามารถใช้งานได้ผ่านรีโมตเดสก์ท็อป"
 "Volume Leveling" = "ปรับสมดุลระดับเสียง"
+"Not configured" = "ยังไม่ได้กำหนดค่า"

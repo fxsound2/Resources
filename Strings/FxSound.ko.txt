@@ -141,3 +141,4 @@ countries: kr
 "Use Shift+Up or Shift+Down to change the device priority" = "Shift+Up 또는 Shift+Down을 사용하여 장치 우선순위를 변경합니다"
 "Audio processing is not available over Remote Desktop" = "오디오 처리는 원격 데스크톱에서 사용할 수 없습니다"
 "Volume Leveling" = "볼륨 평준화"
+"Not configured" = "구성되지 않음"
