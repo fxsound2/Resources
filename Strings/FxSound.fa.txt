@@ -141,3 +141,4 @@ countries: ir
 "Use Shift+Up or Shift+Down to change the device priority" = "برای تغییر اولویت دستگاه از Shift+Up یا Shift+Down استفاده کنید."
 "Audio processing is not available over Remote Desktop" = "پردازش صدا از طریق دسکتاپ از راه دور در دسترس نیست"
 "Volume Leveling" = "تراز کردن صدا"
+"Not configured" = "پیکربندی نشده"

@@ -141,3 +141,4 @@ countries: ar co es mx
 "Use Shift+Up or Shift+Down to change the device priority" = "Use Shift+Up o Shift+Down para cambiar la prioridad del dispositivo"
 "Audio processing is not available over Remote Desktop" = "El procesamiento de audio no está disponible a través de Escritorio remoto"
 "Volume Leveling" = "Nivelación de volumen"
+"Not configured" = "No configurado"

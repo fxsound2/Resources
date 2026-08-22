@@ -142,3 +142,4 @@ countries: se
 "Use Shift+Up or Shift+Down to change the device priority" = "Använd Shift+Up eller Shift+Down för att ändra enhetsprioriteten"
 "Audio processing is not available over Remote Desktop" = "Ljudbearbetning är inte tillgänglig via Fjärrskrivbord"
 "Volume Leveling" = "Volymutjämning"
+"Not configured" = "Inte konfigurerad"

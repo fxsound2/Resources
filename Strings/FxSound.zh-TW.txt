@@ -140,3 +140,4 @@ countries: Taiwan
 "Use Shift+Up or Shift+Down to change the device priority" = "使用 Shift+Up 或 Shift+Down 變更裝置優先順序"
 "Audio processing is not available over Remote Desktop" = "遠端桌面不支援音訊處理"
 "Volume Leveling" = "音量均衡"
+"Not configured" = "未設定"

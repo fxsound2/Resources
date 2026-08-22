@@ -142,3 +142,4 @@ countries: hu
 "Use Shift+Up or Shift+Down to change the device priority" = "A Shift+Up vagy Shift+Down használatával módosíthatja az eszköz prioritását"
 "Audio processing is not available over Remote Desktop" = "A hangfeldolgozás nem érhető el Távoli asztalon keresztül"
 "Volume Leveling" = "Hangerő-kiegyenlítés"
+"Not configured" = "Nincs beállítva"

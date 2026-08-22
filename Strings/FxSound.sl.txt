@@ -139,3 +139,4 @@ countries: sl
 "Use Shift+Up or Shift+Down to change the device priority" = "Uporabite Shift+Up ali Shift+Down za spremembo prioritete naprave"
 "Audio processing is not available over Remote Desktop" = "Obdelava zvoka ni na voljo prek oddaljenega namizja"
 "Volume Leveling" = "Izenačevanje glasnosti"
+"Not configured" = "Ni konfigurirano"

@@ -142,3 +142,4 @@ countries: tr
 "Use Shift+Up or Shift+Down to change the device priority" = "Aygıt önceliğini değiştirmek için Shift+Up veya Shift+Down kullanın"
 "Audio processing is not available over Remote Desktop" = "Ses işleme Uzak Masaüstü üzerinden kullanılamaz"
 "Volume Leveling" = "Ses Düzeyi Dengeleme"
+"Not configured" = "Yapılandırılmadı"
