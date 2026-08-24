@@ -8,7 +8,7 @@ Bugatti - Worker (User FxSound Preset)
 0: Main 2
 0: Main 3
 38: Main 4
-102: Main 5
+114: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,7 +31,7 @@ Bugatti - Worker (User FxSound Preset)
 1: On/Off Flag
 Band 1
    62.5: CF
-   8.0315: Boost/Cut
+   8.97638: Boost/Cut
 Band 2
    157: CF
    -9: Boost/Cut
