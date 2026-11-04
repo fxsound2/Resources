@@ -142,3 +142,7 @@ countries: [enter list of 2-character country codes here!]
 "Audio processing is not available over Remote Desktop" = "Audio processing is not available over Remote Desktop"
 "Volume Leveling" = "Volume Leveling"
 "Not configured" = "Not configured"
+"Use hardware-accelerated graphics" = "Use hardware-accelerated graphics"
+"FxSound needs to restart to apply this change. Restart now?" = "FxSound needs to restart to apply this change. Restart now?"
+"Restart now" = "Restart now"
+"Later" = "Later"

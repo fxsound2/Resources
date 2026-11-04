@@ -143,3 +143,7 @@ countries: id
 "Audio processing is not available over Remote Desktop" = "Pemrosesan audio tidak tersedia melalui Desktop Jauh"
 "Volume Leveling" = "Perataan Volume"
 "Not configured" = "Belum dikonfigurasi"
+"Use hardware-accelerated graphics" = "Gunakan grafis dengan akselerasi perangkat keras"
+"FxSound needs to restart to apply this change. Restart now?" = "FxSound perlu dimulai ulang untuk menerapkan perubahan ini. Mulai ulang sekarang?"
+"Restart now" = "Mulai ulang sekarang"
+"Later" = "Nanti"

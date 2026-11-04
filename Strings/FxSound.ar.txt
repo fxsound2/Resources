@@ -144,3 +144,7 @@ countries: EG sa
 "Audio processing is not available over Remote Desktop" = "معالجة الصوت غير متوفرة عبر سطح المكتب البعيد"
 "Volume Leveling" = "موازنة مستوى الصوت"
 "Not configured" = "غير مهيأ"
+"Use hardware-accelerated graphics" = "استخدام الرسومات المسرّعة بالأجهزة"
+"FxSound needs to restart to apply this change. Restart now?" = "يحتاج FxSound إلى إعادة التشغيل لتطبيق هذا التغيير. هل تريد إعادة التشغيل الآن؟"
+"Restart now" = "إعادة التشغيل الآن"
+"Later" = "لاحقًا"

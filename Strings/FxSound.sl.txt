@@ -140,3 +140,7 @@ countries: sl
 "Audio processing is not available over Remote Desktop" = "Obdelava zvoka ni na voljo prek oddaljenega namizja"
 "Volume Leveling" = "Izenačevanje glasnosti"
 "Not configured" = "Ni konfigurirano"
+"Use hardware-accelerated graphics" = "Uporabi strojno pospešeno grafiko"
+"FxSound needs to restart to apply this change. Restart now?" = "Za uveljavitev te spremembe je treba FxSound znova zagnati. Želite znova zagnati zdaj?"
+"Restart now" = "Znova zaženi zdaj"
+"Later" = "Pozneje"

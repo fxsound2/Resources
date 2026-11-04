@@ -142,3 +142,7 @@ countries: kr
 "Audio processing is not available over Remote Desktop" = "오디오 처리는 원격 데스크톱에서 사용할 수 없습니다"
 "Volume Leveling" = "볼륨 평준화"
 "Not configured" = "구성되지 않음"
+"Use hardware-accelerated graphics" = "하드웨어 가속 그래픽 사용"
+"FxSound needs to restart to apply this change. Restart now?" = "이 변경 사항을 적용하려면 FxSound를 다시 시작해야 합니다. 지금 다시 시작하시겠습니까?"
+"Restart now" = "지금 다시 시작"
+"Later" = "나중에"

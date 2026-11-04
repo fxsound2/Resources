@@ -142,3 +142,7 @@ countries: ua
 "Audio processing is not available over Remote Desktop" = "Обробка аудіо недоступна через віддалений робочий стіл"
 "Volume Leveling" = "Вирівнювання гучності"
 "Not configured" = "Не налаштовано"
+"Use hardware-accelerated graphics" = "Використовувати апаратне прискорення графіки"
+"FxSound needs to restart to apply this change. Restart now?" = "Щоб застосувати цю зміну, потрібно перезапустити FxSound. Перезапустити зараз?"
+"Restart now" = "Перезапустити зараз"
+"Later" = "Пізніше"

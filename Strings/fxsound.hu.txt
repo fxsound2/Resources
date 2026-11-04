@@ -143,3 +143,7 @@ countries: hu
 "Audio processing is not available over Remote Desktop" = "A hangfeldolgozás nem érhető el Távoli asztalon keresztül"
 "Volume Leveling" = "Hangerő-kiegyenlítés"
 "Not configured" = "Nincs beállítva"
+"Use hardware-accelerated graphics" = "Hardveresen gyorsított grafika használata"
+"FxSound needs to restart to apply this change. Restart now?" = "A módosítás alkalmazásához az FxSound újraindítása szükséges. Újraindítja most?"
+"Restart now" = "Újraindítás most"
+"Later" = "Később"

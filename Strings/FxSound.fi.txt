@@ -142,3 +142,7 @@ countries: fi
 "Audio processing is not available over Remote Desktop" = "Äänenkäsittely ei ole käytettävissä etätyöpöydän kautta"
 "Volume Leveling" = "Äänenvoimakkuuden tasoitus"
 "Not configured" = "Ei määritetty"
+"Use hardware-accelerated graphics" = "Käytä laitteistokiihdytettyä grafiikkaa"
+"FxSound needs to restart to apply this change. Restart now?" = "FxSound on käynnistettävä uudelleen, jotta muutos tulee voimaan. Käynnistetäänkö uudelleen nyt?"
+"Restart now" = "Käynnistä uudelleen nyt"
+"Later" = "Myöhemmin"

@@ -141,3 +141,7 @@ countries: Taiwan
 "Audio processing is not available over Remote Desktop" = "遠端桌面不支援音訊處理"
 "Volume Leveling" = "音量均衡"
 "Not configured" = "未設定"
+"Use hardware-accelerated graphics" = "使用硬體加速圖形"
+"FxSound needs to restart to apply this change. Restart now?" = "需要重新啟動 FxSound 才能套用此變更。立即重新啟動？"
+"Restart now" = "立即重新啟動"
+"Later" = "稍後"

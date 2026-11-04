@@ -143,3 +143,7 @@ countries: tr
 "Audio processing is not available over Remote Desktop" = "Ses işleme Uzak Masaüstü üzerinden kullanılamaz"
 "Volume Leveling" = "Ses Düzeyi Dengeleme"
 "Not configured" = "Yapılandırılmadı"
+"Use hardware-accelerated graphics" = "Donanım hızlandırmalı grafik kullan"
+"FxSound needs to restart to apply this change. Restart now?" = "Bu değişikliğin uygulanması için FxSound\'un yeniden başlatılması gerekiyor. Şimdi yeniden başlatılsın mı?"
+"Restart now" = "Şimdi yeniden başlat"
+"Later" = "Daha sonra"

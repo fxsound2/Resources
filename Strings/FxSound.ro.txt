@@ -143,3 +143,7 @@ countries: ro
 "Audio processing is not available over Remote Desktop" = "Procesarea audio nu este disponibilă prin Desktop la distanță"
 "Volume Leveling" = "Nivelare volum"
 "Not configured" = "Neconfigurat"
+"Use hardware-accelerated graphics" = "Utilizează grafica accelerată hardware"
+"FxSound needs to restart to apply this change. Restart now?" = "FxSound trebuie repornit pentru a aplica această modificare. Reporniți acum?"
+"Restart now" = "Repornește acum"
+"Later" = "Mai târziu"
