@@ -142,3 +142,7 @@ countries: no
 "Audio processing is not available over Remote Desktop" = "Lydprosessering er ikke tilgjengelig over Eksternt skrivebord"
 "Volume Leveling" = "Volumutjevning"
 "Not configured" = "Ikke konfigurert"
+"Use hardware-accelerated graphics" = "Bruk maskinvareakselerert grafikk"
+"FxSound needs to restart to apply this change. Restart now?" = "FxSound må startes på nytt for at endringen skal tre i kraft. Vil du starte på nytt nå?"
+"Restart now" = "Start på nytt nå"
+"Later" = "Senere"

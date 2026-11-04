@@ -142,3 +142,7 @@ countries: ir
 "Audio processing is not available over Remote Desktop" = "پردازش صدا از طریق دسکتاپ از راه دور در دسترس نیست"
 "Volume Leveling" = "تراز کردن صدا"
 "Not configured" = "پیکربندی نشده"
+"Use hardware-accelerated graphics" = "استفاده از گرافیک شتاب‌یافته با سخت‌افزار"
+"FxSound needs to restart to apply this change. Restart now?" = "برای اعمال این تغییر، FxSound باید دوباره راه‌اندازی شود. اکنون دوباره راه‌اندازی شود؟"
+"Restart now" = "راه‌اندازی مجدد اکنون"
+"Later" = "بعداً"

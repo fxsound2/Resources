@@ -142,3 +142,7 @@ countries: bg
 "Audio processing is not available over Remote Desktop" = "Обработката на звук не е налична през Remote Desktop"
 "Volume Leveling" = "Изравняване на звука"
 "Not configured" = "Не е конфигурирано"
+"Use hardware-accelerated graphics" = "Използване на хардуерно ускорена графика"
+"FxSound needs to restart to apply this change. Restart now?" = "FxSound трябва да се рестартира, за да се приложи тази промяна. Рестартиране сега?"
+"Restart now" = "Рестартиране сега"
+"Later" = "По-късно"

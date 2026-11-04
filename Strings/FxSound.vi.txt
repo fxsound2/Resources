@@ -143,3 +143,7 @@ countries: vn
 "Audio processing is not available over Remote Desktop" = "Xử lý âm thanh không khả dụng qua Máy tính từ xa"
 "Volume Leveling" = "Cân bằng âm lượng"
 "Not configured" = "Chưa được cấu hình"
+"Use hardware-accelerated graphics" = "Sử dụng đồ họa tăng tốc phần cứng"
+"FxSound needs to restart to apply this change. Restart now?" = "Cần khởi động lại FxSound để áp dụng thay đổi này. Khởi động lại ngay?"
+"Restart now" = "Khởi động lại ngay"
+"Later" = "Để sau"

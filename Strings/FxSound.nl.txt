@@ -140,3 +140,7 @@
 "Audio processing is not available over Remote Desktop" = "Audioverwerking is niet beschikbaar via extern bureaublad"
 "Volume Leveling" = "Volume-egalisatie"
 "Not configured" = "Niet geconfigureerd"
+"Use hardware-accelerated graphics" = "Hardwareversnelde graphics gebruiken"
+"FxSound needs to restart to apply this change. Restart now?" = "FxSound moet opnieuw worden gestart om deze wijziging toe te passen. Nu opnieuw starten?"
+"Restart now" = "Nu opnieuw starten"
+"Later" = "Later"

@@ -142,3 +142,7 @@ countries: cz
 "Audio processing is not available over Remote Desktop" = "Zpracování zvuku není přes Vzdálenou plochu k dispozici"
 "Volume Leveling" = "Vyrovnávání hlasitosti"
 "Not configured" = "Není nakonfigurováno"
+"Use hardware-accelerated graphics" = "Použít hardwarovou akceleraci grafiky"
+"FxSound needs to restart to apply this change. Restart now?" = "FxSound se musí restartovat, aby se změna projevila. Restartovat nyní?"
+"Restart now" = "Restartovat nyní"
+"Later" = "Později"

@@ -141,3 +141,7 @@ countries: cn sg
 "Audio processing is not available over Remote Desktop" = "远程桌面不支持音频处理"
 "Volume Leveling" = "音量均衡"
 "Not configured" = "未配置"
+"Use hardware-accelerated graphics" = "使用硬件加速图形"
+"FxSound needs to restart to apply this change. Restart now?" = "需要重新启动 FxSound 才能应用此更改。立即重新启动？"
+"Restart now" = "立即重新启动"
+"Later" = "稍后"

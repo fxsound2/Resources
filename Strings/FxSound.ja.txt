@@ -143,3 +143,7 @@ countries: ja
 "Audio processing is not available over Remote Desktop" = "オーディオ処理はリモート デスクトップでは利用できません"
 "Volume Leveling" = "音量平準化"
 "Not configured" = "設定されていません"
+"Use hardware-accelerated graphics" = "グラフィックのハードウェアアクセラレーションを使用する"
+"FxSound needs to restart to apply this change. Restart now?" = "この変更を適用するには FxSound を再起動する必要があります。今すぐ再起動しますか？"
+"Restart now" = "今すぐ再起動"
+"Later" = "後で"

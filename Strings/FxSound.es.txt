@@ -142,3 +142,7 @@ countries: ar co es mx
 "Audio processing is not available over Remote Desktop" = "El procesamiento de audio no está disponible a través de Escritorio remoto"
 "Volume Leveling" = "Nivelación de volumen"
 "Not configured" = "No configurado"
+"Use hardware-accelerated graphics" = "Usar gráficos acelerados por hardware"
+"FxSound needs to restart to apply this change. Restart now?" = "FxSound necesita reiniciarse para aplicar este cambio. ¿Reiniciar ahora?"
+"Restart now" = "Reiniciar ahora"
+"Later" = "Más tarde"
